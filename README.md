@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt="Dev.Finances$ (Maratona Discover)"> Dev.Finances$ (Maratona Discover) </a>
+      <a href="#" alt="Dev.Finances$ (Maratona Discover)"> Grid-Layout </a>
 </h1>
 
 <h3 align="center">
