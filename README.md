@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt="Dev.Finances$ (Maratona Discover)"> Grid-Layout </a>
+      <a href="#" alt="Grid Layout"> Grid-Layout </a>
 </h1>
 
 <h3 align="center">
@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Maratona-Discover?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Grid-Layout?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Maratona-Discover">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Grid-Layout">
   
   <a href="https://github.com/Pluto-ty/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Maratona-Discover">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Grid-Layout">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Pluto-ty/Maratona-Discover/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Maratona-Discover?style=social">
+   <a href="https://github.com/Pluto-ty/Grid-Layout/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Grid-Layout?style=social">
   </a>
   
  
