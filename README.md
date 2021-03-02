@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   Projeto prático de uma aplicação de controle financeiro.
+   Projeto para prática de grid css, utilizando o curso da origamid de grid layout.
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
-Esse repositório é baseado na Maratona Discover com Mayk Brito, utilizando o básico de HTML, CSS e Javascript para fazer a base do projeto porém estou implementando várias funcionalidades e deixar essa aplicação bem melhor, e aprendendo bastante com isso.
+Esse repositório é baseado no curso da Origamid - Grid Layout, utilizando HTML, CSS para fazer um projeto feito totalmente com grid para estudo e prática.
 
 <h4 align="center">🚧 Aviso 🚧</h4>
 
