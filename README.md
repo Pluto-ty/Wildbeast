@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt="Grid Layout"> Grid-Layout </a>
+      <a href="#" alt="Grid Layout"> Grid Layout </a>
 </h1>
 
 <h3 align="center">
