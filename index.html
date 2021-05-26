@@ -1,14 +1,180 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Grid Layout</title>
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta
+         name="viewport"
+         content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+      />
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400&display=swap"
+         rel="stylesheet"
+      />
+      <link rel="stylesheet" href="style.css" />
+      <link rel="shortcut icon" href="assets/icons/leao.svg" />
+      <title>WildBeast</title>
+   </head>
+   <body>
+      <div class="c-dark-mode">
+         <input
+            class="js-dark-mode"
+            onclick="toggle.switch()"
+            type="checkbox"
+            id="switch"
+         />
+         <label for="switch"
+            ><img class="c-moon-icon" src="./assets/fases-da-lua.svg" alt="" />
+            <img class="c-sun-icon" src="./assets/sun.svg" alt="" />
+         </label>
+      </div>
+      <div class="c-container">
+         <header class="c-header">
+            <a href="" class="c-logo">
+               <img src="./assets/wildbeast.svg " alt="Wildbeast" />
+            </a>
+            <nav>
+               <ul>
+                  <li><a href="#">Sobre</a></li>
+                  <li><a href="#">Animais</a></li>
+                  <li><a href="#">Contato</a></li>
+               </ul>
+            </nav>
+         </header>
+
+         <nav class="c-sidenav">
+            <ul>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/cervo.svg" alt="Cervo" />
+                  </a>
+               </li>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/leao.svg" alt="Leão" />
+                  </a>
+               </li>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/gato.svg" alt="Gato" />
+                  </a>
+               </li>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/vaca.svg" alt="Vaca" />
+                  </a>
+               </li>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/ovelha.svg" alt="Ovelha" />
+                  </a>
+               </li>
+               <li>
+                  <a href="">
+                     <img src="./assets/icons/abelha.svg" alt="Abelha" />
+                  </a>
+               </li>
+            </ul>
+         </nav>
+
+         <main class="c-main-container">
+            <div class="c-title">
+               <h1>Lobo Cinza</h1>
+               <span>Da família canis lupus</span>
+            </div>
+
+            <div class="c-feature">
+               <div>
+                  <span class="u-number">72</span>
+                  <span class="u-label">kg</span>
+               </div>
+               <div>
+                  <span class="u-number">13</span>
+                  <span class="u-label">age</span>
+               </div>
+            </div>
+
+            <p class="u-col-wide">
+               É um sobrevivente da Era do Gelo, originário do Pleistoceno
+               Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de DNA
+               e estudos genéticos reafirmam que o lobo cinzento é ancestral do
+               cão doméstico
+            </p>
+
+            <img class="c-wolf1" src="./assets/wolf1.jpg" alt="Wolf 1" />
+            <p class="c-wolf2-legend">
+               É um sobrevivente da Era do Gelo, originário do Pleistoceno
+               Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de DNA
+               e estudos.
+            </p>
+            <img class="c-wolf2" src="./assets/wolf2.jpg" alt="Wolf 2" />
+            <p>
+               O peso e tamanho dos lobos variam muito em todo o mundo, tendendo
+               a aumentar proporcionalmente com a latitude, como previsto pela
+               teoria de Christian Bergmann. Em geral, a altura, medida a partir
+               dos ombros, varia de 60 a 95 centímetros.
+            </p>
+            <p>
+               O peso varia geograficamente. Em média, os lobos europeus pesam
+               38,5 kg; os lobos da América do Norte, 36 kg; os lobos indianos e
+               árabes, 25 kg.[7] Embora raros, lobos com mais de 77 kg foram
+               encontrados no Alasca, Canadá,[8] e na antiga União Soviética.
+            </p>
+
+            <blockquote class="c-quote u-col-wide">
+               <p>
+                  “Há algo no uivar do lobo que tira um homem do aqui e agora e
+                  o transporta para uma floresta da mente.”
+               </p>
+            </blockquote>
+
+            <ul class="c-attributes">
+               <li>Surgiu: 12.000 anos</li>
+               <li>Tipo: Mamífero</li>
+               <li>Idade Média: 13 anos</li>
+               <li>Macho adulto: 80kg</li>
+               <li>Fêmea adulta: 55kg</li>
+               <li>Família: Lupus</li>
+            </ul>
+            <div class="c-atributes-information">
+               <p>
+                  É um sobrevivente da Era do Gelo, originário do Pleistoceno
+                  Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de
+                  DNA e estudos genéticos reafirmam que o lobo cinzento é
+                  ancestral do cão doméstico.
+               </p>
+               <p>
+                  É um sobrevivente da Era do Gelo, originário do Pleistoceno
+                  Superior, cerca de 300 mil anos atrás.[2] O sequenciamento de
+                  DNA e estudos genéticos reafirmam que o lobo cinzento é
+                  ancestral do cão doméstico.
+               </p>
+            </div>
+
+            <img class="u-col-wide" src="./assets/wolf3.jpg" alt="Wolf 3" />
+         </main>
+
+         <aside class="c-ad">
+            <div class="c-ad-item">
+               <img src="./assets/anuncio-1.jpg" alt="Ad 1" />
+            </div>
+            <div class="c-ad-item">
+               <img src="./assets/anuncio-2.jpg" alt="Ad 2" />
+            </div>
+         </aside>
+
+         <footer class="c-footer">
+            <p>Origamid © 2012 - 2017. Alguns direitos reservados.</p>
+         </footer>
+      </div>
+      <script>
+         const toggle = {
+            switch() {
+               let $html = document.querySelector("html");
+               $html.classList.toggle("dark-mode");
+            },
+         };
+      </script>
+   </body>
 </html>

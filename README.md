@@ -1,36 +1,39 @@
 <h1 align="center">
-      <a href="#" alt="Grid Layout"> WildBeast </a>
+      <a href="#" alt="Dev.Finances$ (Maratona Discover)"> Wildbeast - </a>
 </h1>
 
 <h3 align="center">
-   Projeto para prática de grid css, utilizando o curso da origamid de grid layout.
+   Uma aplicação para a prática de um layout responsito feito com Grid.
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Grid-Layout?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Wildbeast?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Grid-Layout">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Wildbeast">
   
   <a href="https://github.com/Pluto-ty/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Grid-Layout">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Wildbeast">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Pluto-ty/Grid-Layout/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Grid-Layout?style=social">
+   <a href="https://github.com/Pluto-ty/Wildbeast/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Wildbeast?style=social">
   </a>
   
  
 </p>
 
 <h4 align="center">
-	🚧 Em andamento 🚧
+	🎉 Completo 🎉
 </h4>
 
 <p align="center">
  <a href="#---sobre-o-repositório-">Sobre o projeto</a> •
+ <a href="#--features"> Recursos </a> •
+ <a href="#--functions"> Funcionalidades</a> •
  <a href="#--como-executar-o-projeto-">Como executar o projeto</a> •
- <a href="#-autor">Autor</a> • 
+ <a href="#--Contributing"> Contribuição</a> •  
+ <a href="#-autor">Autor</a> •
  <a href="#user-content--licença">Licença</a>
 </p>
 
@@ -38,21 +41,15 @@
 
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
-Esse repositório é baseado no curso da Origamid - Grid Layout, utilizando HTML, CSS para fazer um projeto feito totalmente com grid para estudo e prática.
-
-<h4 align="center">🚧 Aviso 🚧</h4>
-
-<p>
-Códigos comentados para minha própria revisão se precisar, se houver algo que acha que pode ser melhorado, não tenha medo de me comunicar isso me ajuda no meu crescimento profissional.
-</p>
+Esse repositório é baseado no curso da Origamid de Grid para a prática de um layout responsivo com grid.
 
 ---
 
 <h2 id="--como-executar-o-projeto-"> 🚀 Como executar o projeto </h2>
 
-Este projeto só usa de tem Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
+Este projeto só usa Front-end ( Html, Css ). Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/Maratona-Discover/" target="_blank" > Clique para visualizar a Demo</a> 
+<a href="https://pluto-ty.github.io/Wildbeast/" target="_blank" > Wildbeast</a>
 
 ### Pré-requisitos
 
@@ -62,7 +59,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 1. Faça clone do projeto:
 
 ```bash
-$ git clone https://github.com/Pluto-ty/
+$ git clone https://github.com/Pluto-ty/Wildbeast.git
 
 ```
 
@@ -73,28 +70,38 @@ $ git clone https://github.com/Pluto-ty/
 <h2 align="center"> Projeto </h2>
 
 <h4 align="center"> Mobile </h4>
-  <p align="center";>
-   <img alt="Header/Main" title="Mobile Home" src="./assets/mobile.png" width="400px">
-   <img alt="Header/Main" title="Mohile Home Dark Mode" src="./assets/mobile-dm.png" width="400px">
-  </p>
+<p align="center";>
+<img alt="Mobile" title="Mobile Home" src="./assets/demonstration-mobile.gif" width="300px">
+</p>
 
 <h4 align="center"> Web </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Home" src="./assets/web.png" width="900px">
+<p align="center" style="display: flex; justify-content: center;">
+  <img alt="" title="Home" src="./assets/demonstration.gif" width="900px">
 </p>
 
-<h4 align="center"> Web - Dark Mode </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Home Dark Mode" src="./assets/web-dm.png" width="900px">
-</p>
+---
+
+<h2 id="--Contributing"> 🤝 Contribuindo </h2>
+
+Este projeto é para fins de estudo, então me envie um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe
+
+Todos os tipos de contribuições são muito bem-vindos e apreciados!
+
+⭐️ Iniciar o projeto
+</br>
+🐛 Encontrar e relatar problemas
+</br>
+📥 Envie PRs para ajudar a resolver problemas ou adicionar recursos
+
+---
 
 <h2 id="-autor">Autor</h2>
 
 <a href="https://github.com/Pluto-ty">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
- <br />
- <sub><b>Thyago Araujo</b></sub></a> </a>
- <br />
+</br>
+<p> Thyago Araujo <p>
+</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ThyagoAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyago-araujo-m/)](https://www.linkedin.com/in/thyago-araujo-m/)
 [![Gmail Badge](https://img.shields.io/badge/-thyagoaraujomotta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thyagoaraujomotta@gmail.com)](mailto:thyagoaraujomotta@gmail.com)
