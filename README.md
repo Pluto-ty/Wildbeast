@@ -59,7 +59,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 1. Faça clone do projeto:
 
 ```bash
-$ git clone https://github.com/Pluto-ty/Wildbeast.git
+$ git clone https://github.com/thyagoaraujom/Wildbeast.git
 
 ```
 
