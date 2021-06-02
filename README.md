@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Wildbeast?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thyagoaraujom/Wildbeast?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Wildbeast">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thyagoaraujom/Wildbeast">
   
-  <a href="https://github.com/Pluto-ty/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Wildbeast">
+  <a href="https://github.com/thyagoaraujom/README/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thyagoaraujom/Wildbeast">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Pluto-ty/Wildbeast/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Wildbeast?style=social">
+   <a href="https://github.com/thyagoaraujom/Wildbeast/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/thyagoaraujom/Wildbeast?style=social">
   </a>
   
  
@@ -49,7 +49,7 @@ Esse repositório é baseado no curso da Origamid de Grid para a prática de um 
 
 Este projeto só usa Front-end ( Html, Css ). Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/Wildbeast/" target="_blank" > Wildbeast</a>
+<a href="https://thyagoaraujom.github.io/Wildbeast/" target="_blank" > Wildbeast</a>
 
 ### Pré-requisitos
 
@@ -97,7 +97,7 @@ Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
 <h2 id="-autor">Autor</h2>
 
-<a href="https://github.com/Pluto-ty">
+<a href="https://github.com/thyagoaraujom">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
 </br>
 <p> Thyago Araujo <p>
