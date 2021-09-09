@@ -47,9 +47,7 @@ Esse repositório é baseado no curso da Origamid de Grid para a prática de um 
 
 <h2 id="--como-executar-o-projeto-"> 🚀 Como executar o projeto </h2>
 
-Este projeto só usa Front-end ( Html, Css ). Clique no link abaixo para ver a aplicação rodando no seu navegador.
-
-<a href="https://thyagoaraujom.github.io/Wildbeast/" target="_blank" > Wildbeast</a>
+Clique no link para ver a aplicação rodando no seu navegador. <a href="https://thyagoaraujom.github.io/Wildbeast/" target="_blank" > Wildbeast</a>
 
 ### Pré-requisitos
 
